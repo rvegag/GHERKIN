@@ -1,4 +1,4 @@
-#Autor: Edison Virto
+#Autor: Edison Virto 
 #Idioma: Español
 @MVP-AppMovil @Android @Iphone
 Feature: Tranferir Dinero
