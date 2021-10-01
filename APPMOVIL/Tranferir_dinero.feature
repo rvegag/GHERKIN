@@ -29,5 +29,5 @@ Feature: Tranferir Dinero
     When El Cliente solicita Tranferir dinero <dineroTranferido>
     Then El Dinero es Tranferido a la segunda cuenta Bancaria <mensaje>
     Examples:
-    |dineroDisponiblePrimeraCuenta  |moneda |dineroTranferido |mensaje                                         |
-    |1000.00                        |Soles  |100.00           |Tranferencia Realizada con exito                |
+    |dineroDisponiblePrimeraCuenta  |moneda |dineroTranferido |mensaje                          |
+    |1000.00                        |Soles  |100.00           |Tranferencia Realizada con exito |
