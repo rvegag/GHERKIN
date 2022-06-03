@@ -17,7 +17,7 @@ Feature: Login
     And Yo registro el Password textBox con Valor "123456"
     And Yo doy Click en el boton Login
     Then Yo deberia estar en la página principal de nombre Home Page del AppMovil
-    And El Titulo de la página de Home Page es "Bienvenida"
+    And El Titulo de la página de Home Page es "Bienvenida al Home Page"
     But El boton Login no deberia estar presente en la página Home Page del AppMovil
       """
       nombre: Edison
